@@ -1,2 +1,4 @@
 # Hotel-Demand-Forecasting
 Dissertation Project
+
+Hey Folks!.....In this repository, I will be sharing all the raw datasets and the code that were used to prepare the final dataset which was further used for exploratory analysis and implementation of algorithms for forecasting namely time series forecasting, ARMA, ARIMA, ARIMAX, and SARIMAX models. This project is a conctribution towards the limited research in the field of hotel demand forecasting which poses as one of the complex problems existing in the hospitality industry and is intended to help other fellow researchers. The analysis and forecasting was done using a two dimensional dataset. Although I believe it could have been done in three dimensional dataset as well. Anyone is more than welcome to suggest their changes.....Thanks....Jay
